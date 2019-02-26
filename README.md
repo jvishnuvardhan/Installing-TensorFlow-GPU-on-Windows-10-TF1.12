@@ -107,4 +107,6 @@ Steps:
 
 **References**
 
+https://www.tensorflow.org/install/source_windows
+
 https://www.youtube.com/watch?v=HExRhnO5Mqs
