@@ -104,3 +104,7 @@ Steps:
 		a. from tensorflow.python.client import device_lib print(device_lib.list_local_devices())
 		
 		b. print(device_lib.list_local_devices())
+
+**References**
+
+https://www.youtube.com/watch?v=HExRhnO5Mqs
