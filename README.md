@@ -29,11 +29,21 @@ Steps:
 		
 		b. While installing, select “Add Python 3.6 to PATH” and then click “Install Now”. 
 		
-		
-		
+<p align="center">
+  <img src="https://github.com/jvishnuvardhan/Installing-TensorFlow-GPU-on-Windows-10-TF1.12/blob/master/Installing%20TF_Windows10.png">
+</p>
+	
 		c. After successful installation of python, the installation window provides an option for disabling path length limit which is one of the root-cause of Tensorflow build/Installation issues in Windows 10 environment. Click “Disable path length limit” and follow the instructions to complete the installation.
+
+<p align="center">
+  <img src="https://github.com/jvishnuvardhan/Installing-TensorFlow-GPU-on-Windows-10-TF1.12/blob/master/Setup_Successful.png">
+</p>
 		
 		d. Verify whether python installed correctly. Open a command prompt and type “python”. It should show the version of Python.
+		
+<p align="center">
+  <img src="https://github.com/jvishnuvardhan/Installing-TensorFlow-GPU-on-Windows-10-TF1.12/blob/master/Test_TF_import.png">
+</p>
 
 [Visual Studio Link](https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
 
@@ -71,8 +81,16 @@ Steps:
 		f. In the dropdown, click “cuDNN Library for Windows 10” and download
 		
 		g. Go to the folder where the file was downloaded, extract the files
+
+<p align="center">
+  <img src="https://github.com/jvishnuvardhan/Installing-TensorFlow-GPU-on-Windows-10-TF1.12/blob/master/CUDA_Folder_details.png">
+</p>
 		
 		h. Add three folders (bin, include, lib) inside the extracted file to environment
+
+<p align="center">
+  <img src="https://github.com/jvishnuvardhan/Installing-TensorFlow-GPU-on-Windows-10-TF1.12/blob/master/CUDA_path_2_env_variables.png">
+</p>
 		
 		i. Type “environment” in windows 10 search bar and locate the “Environment Variables” and click “Path” in “User variable” section and click “Edit” and then select “New” and add those three paths to three “cuda” folders
 		
