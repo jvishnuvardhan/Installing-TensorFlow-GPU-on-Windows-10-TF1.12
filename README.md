@@ -128,3 +128,8 @@ Steps:
 https://www.tensorflow.org/install/source_windows
 
 https://www.youtube.com/watch?v=HExRhnO5Mqs
+
+**Tips**
+1. If there are any modules that are not satisfying the requirements of TF build, then TF throws error. One of the approach to correct the bugs is to run the following command
+
+		$pip install --upgrade --no-deps --force-reinstall tensorflow
