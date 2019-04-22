@@ -45,7 +45,7 @@ Steps:
   <img src="https://github.com/jvishnuvardhan/Installing-TensorFlow-GPU-on-Windows-10-TF1.12/blob/master/Test_TF_import.png">
 </p>
 
-[Visual Studio Link](https://developer.nvidia.com/cuda-90-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal)
+[Visual Studio Link](https://visualstudio.microsoft.com/downloads/)
 
 **5. Install Visual Studio**
 
