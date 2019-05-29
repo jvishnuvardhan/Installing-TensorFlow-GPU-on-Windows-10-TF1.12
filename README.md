@@ -1,7 +1,7 @@
 # Installing-TensorFlow-GPU-on-Windows-10-TF1.12
 This is to help Installing TensorFlow-GPU on Windows 10 Systems
 
-Steps:
+Steps: test
 
 **1. Make sure you have NVIDIA graphic card**
 		 
